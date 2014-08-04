@@ -8,3 +8,5 @@ syncAll
 *.swp
 *.swo
 .DS_Store
+tags
+build
